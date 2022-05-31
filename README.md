@@ -1,2 +1,3 @@
-# dokuin-vscode
-Visual Studio Code extension for DokuIn
+# DokuIn VS Code Extension
+
+DokuIn VS Code extension.
